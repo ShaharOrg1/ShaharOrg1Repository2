@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "mgulp-pluber":"1.2.0",
+    "mhgrked":"1.2.0",
+    "miem":"1.2.0",
+    "mimetyps":"1.2.0",
+    "minicssextractpluin":"1.2.0",
+    "minimhc":"1.2.0",
+    "mkae-dr":"1.2.0",
+    "electron": "24.1.2",
+    "atom-shell": "1.1.5"
+  }
+}
